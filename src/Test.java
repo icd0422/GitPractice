@@ -4,6 +4,7 @@ public class Test {
         System.out.println("test");
 
         System.out.println("dsa");
+        System.out.println("test2");
 
     }
 }
